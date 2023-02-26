@@ -1,0 +1,17 @@
+{
+    "name": "asmthry/php-collection",
+    "description": "Manage your array with simple functions",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asmthry\\PhpCollection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asmthry",
+            "email": "asmthry@gmail.com"
+        }
+    ],
+    "require": {}
+}
